@@ -397,7 +397,7 @@ function setElementEnabled(element) {
 }
 
 function showEmptyTodoContainer() {
-  todoContainer.innerHTML = `<h1 class="no-tasks">You have no tasks.</h1>`;
+  todoContainer.innerHTML = `<h1 class="no-tasks">No task.</h1>`;
 }
 
 $("#nav-clip").click(function() {
