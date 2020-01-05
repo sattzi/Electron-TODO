@@ -36,8 +36,8 @@ body {
 .heading-text {
   font-family: 'Fredericka the Great', cursive !important;
   text-transform: lowercase;
-  /* color: #3b3b3b; */
-  color: #4963b1;
+  color: #3b3b3b;
+//  color: #4963b1;
   font-size: 30px;
   background: -webkit-linear-gradient(#818181, #4963b1);
   -webkit-background-clip: text;
